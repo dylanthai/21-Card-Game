@@ -1,0 +1,23 @@
+14 Jan 2021 16:31:41 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 16:31:41 GMT with name D:\Folder\School Related\Grade 11\ICS3U\Twenty One\EclipseCompiler.txt
+14 Jan 2021 16:31:48 GMT: diagnostics = javax.tools.DiagnosticCollector@11905a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e9cdc4
+fileObjects = [D:\Folder\School Related\Grade 11\ICS3U\Twenty One\TwentyOne.java]
+14 Jan 2021 16:31:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@133e7c4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Folder\School Related\Grade 11\ICS3U\Twenty One;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 16:31:48 GMT: Compiler call returned
+14 Jan 2021 16:32:08 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 16:32:08 GMT with name D:\Folder\School Related\Grade 11\ICS3U\Twenty One\EclipseCompiler.txt
+14 Jan 2021 17:07:50 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 17:07:50 GMT with name D:\Folder\School Related\Grade 11\ICS3U\Twenty One\EclipseCompiler.txt
+14 Jan 2021 17:07:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1251ba0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2bd157
+fileObjects = [D:\Folder\School Related\Grade 11\ICS3U\Twenty One\TwentyOne.java]
+14 Jan 2021 17:07:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a906a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Folder\School Related\Grade 11\ICS3U\Twenty One;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:07:59 GMT: Compiler call returned
+14 Jan 2021 17:08:02 GMT: diagnostics = javax.tools.DiagnosticCollector@967926
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@df3fc4
+fileObjects = [D:\Folder\School Related\Grade 11\ICS3U\Twenty One\TwentyOne.java]
+14 Jan 2021 17:08:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e38321' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Folder\School Related\Grade 11\ICS3U\Twenty One;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:08:02 GMT: Compiler call returned
+14 Jan 2021 17:08:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1284529
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ff355a
+fileObjects = [D:\Folder\School Related\Grade 11\ICS3U\Twenty One\TwentyOne.java]
+14 Jan 2021 17:08:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e32388' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Folder\School Related\Grade 11\ICS3U\Twenty One;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:08:28 GMT: Compiler call returned

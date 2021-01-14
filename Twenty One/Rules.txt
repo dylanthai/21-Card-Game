@@ -1,0 +1,21 @@
+Rules / How To Play:
+
+There are three players.
+
+one player at a time, the player whos turn it is Enters (H) to get 'Hit' to get get a card and (E) to end their turn.
+
+A player's turns end automaticly if the value of their hand is over 21.
+
+The player closest to 21 (without going) after all three players have ended their turn Wins 2 points.
+
+ANY player that goes over 21 will earn 0 points (If all 3 players go over 21, all three players get zero points).
+
+The winner (player closest to 21 without going over) will get 2 points.
+
+If you want to play multple rounds with the same players (same names and score will carry on to next round), enter Y when asked if you want to play again.
+
+When you guys are done player your scores (total scores for all the rounds combined) can be viewed in a text file.
+
+Number cards are worth their value and face cards (Jack, Queen, and King) Are worth 10 # (1 = Ace worth 1).
+
+Good Luck Contestants!
